@@ -37,7 +37,7 @@ Compile the model and fit the train sets and validation sets.
 Plot the necessary graphs for analysis. A custom prediction is done to test the model manually.
 
 ## PROGRAM
-```
+```py
 #Developed by: LAAKSHIT D
 #Registration no.:212222230071
 
